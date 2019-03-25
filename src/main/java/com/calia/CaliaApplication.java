@@ -8,6 +8,7 @@ public class CaliaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CaliaApplication.class, args);
+        System.out.println("hello world");
     }
 
 }
